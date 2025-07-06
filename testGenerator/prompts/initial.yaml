@@ -1,0 +1,10 @@
+# YAML Strict Prompt for Initial Test Generation
+instructions:
+  - Analyze the provided C++ source/header file.
+  - Generate Google Test unit tests for all public functions and classes.
+  - Ensure each test is unique and meaningful.
+  - Add all necessary include statements.
+  - Do not duplicate tests.
+  - Output only the test code, no explanations.
+  - Use proper formatting and naming conventions.
+  - Save each test file as test_<original>.cpp.

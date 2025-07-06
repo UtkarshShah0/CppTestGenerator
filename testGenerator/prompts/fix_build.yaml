@@ -1,0 +1,7 @@
+# YAML Strict Prompt for Build Fixes
+instructions:
+  - Analyze the provided test file and build log.
+  - Identify and fix compilation or linking errors.
+  - Add missing includes or libraries as needed.
+  - Remove or rewrite failing or redundant tests.
+  - Output only the corrected test code, no explanations.

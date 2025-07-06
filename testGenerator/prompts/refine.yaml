@@ -1,0 +1,8 @@
+# YAML Strict Prompt for Test Refinement
+instructions:
+  - Review the generated test files.
+  - Remove duplicate or redundant tests.
+  - Add missing include statements and relevant libraries.
+  - Improve test coverage by adding edge cases.
+  - Ensure all tests are properly formatted and named.
+  - Output only the improved test code, no explanations.
